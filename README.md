@@ -10,4 +10,4 @@ A tool that will help you avoid jargon in your writing. You can find the paper [
 
 #### * The Up-Goer Five Text Editor
 
-Write text using only the [1,000 most common words](http://splasho.com/upgoer5/) in the English language. [Inspired by this.](https://xkcd.com/1133/)
+Write text using only the [1,000 most common words](http://splasho.com/upgoer5/) in the English language. [Inspired by this.](https://xkcd.com/1133/) You can find lots of examples [here](http://tenhundredwordsofscience.tumblr.com).
